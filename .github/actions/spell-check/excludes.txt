@@ -1,0 +1,7 @@
+\.bin$
+\.ico$
+(?:^|/)go\.(?:sum|mod)$
+(?:^|/)package(?:-lock|)\.json$
+^\.github/actions/spell-check/
+^doghouse/appengine/statik/statik\.go$
+testdata/
